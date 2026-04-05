@@ -1,0 +1,60 @@
+BENCHMARK REPORT
+======================================================================
+ SHORT TEXT RESULTS
+Percent of success requests: 100
+ LATENCY (ms):
+Mean:   22.20 ms
+P50:    20.02 ms
+P95:    34.15 ms
+P99:    41.45 ms
+Min:    16.32 ms
+Max:    78.34 ms
+ Std:      6.40 ms
+
+ INFERENCE TIME (ms):
+Mean:    14.01 ms
+Min:      9.81 ms
+Max:     73.75 ms
+
+ CPU USAGE(%):
+Mean:     19.7 %
+Min:       6.5 %
+Max:      66.5 %
+
+ RAM USAGE(%):
+Mean:     72.1 %
+Min:      71.8 %
+Max:      72.4 %
+
+ RPS:
+RPS:     45.05 requests/second
+
+======================================================================
+ LONG TEXT RESULTS
+Percent of success requests: 100
+ LATENCY (ms):
+Mean:     28.28 ms
+P50:      25.81 ms
+P95:      44.07 ms
+P99:      56.33 ms
+Min:      21.24 ms
+Max:      92.44 ms
+Std:       7.90 ms
+
+ INFERENCE TIME (ms):
+Mean:     20.34 ms
+Min:      15.25 ms
+Max:      84.80 ms
+
+ CPU USAGE(%):
+Mean:       19.9 %
+Min:           7.0 %
+Max:          62.1 %
+
+ RAM USAGE(%):
+Mean:         72.1 %
+Min:          72.0 %
+Max:          72.4 %
+
+ RPS:
+RPS:         35.36 requests/second
